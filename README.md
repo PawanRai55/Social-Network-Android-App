@@ -1,7 +1,7 @@
 # SoftwareEngineeringProject
 #                                      Social Networking Android App
 
-Name : **Dayanidhi Gupta**
+Name : **Pawan Kumar Rai**
 
 Course : **CSD-327 Software Engineering LAB**
 
