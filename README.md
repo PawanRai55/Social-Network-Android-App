@@ -1,9 +1,9 @@
 # SoftwareEngineeringProject
 #                                      Social Networking Android App
-# Group Members
+Group Members
 
  **Pawan Kumar Rai**- 185055
- **Dayanidhi Gupta**-185065
+                            **Dayanidhi Gupta**-185065
  **Satyam Kumar**-185083
  **Akash**-185085
 Course : **CSD-327 Software Engineering LAB**
