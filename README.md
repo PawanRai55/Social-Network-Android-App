@@ -2,9 +2,9 @@
 #                                      Social Networking Android App
 Group Members
 
- **Pawan Kumar Rai**- 185055
+ **Pawan Kumar Rai**- 185055 ** **_
                             **Dayanidhi Gupta**-185065
- **Satyam Kumar**-185083
+ **Satyam Kumar-185083
  **Akash**-185085
 Course : **CSD-327 Software Engineering LAB**
 
